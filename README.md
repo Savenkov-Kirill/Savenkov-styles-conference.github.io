@@ -1,2 +1,2 @@
-# Savenkov-styles-conference.github.io
+# styles-conference
 styles-conference
